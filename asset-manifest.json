@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-listing-todo/static/css/main.3e6347d7.css",
+    "main.js": "/job-listing-todo/static/js/main.9daaada5.js",
+    "index.html": "/job-listing-todo/index.html",
+    "main.3e6347d7.css.map": "/job-listing-todo/static/css/main.3e6347d7.css.map",
+    "main.9daaada5.js.map": "/job-listing-todo/static/js/main.9daaada5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6347d7.css",
+    "static/js/main.9daaada5.js"
+  ]
+}
